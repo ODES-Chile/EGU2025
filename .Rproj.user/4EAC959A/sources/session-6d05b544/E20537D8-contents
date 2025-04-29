@@ -1,0 +1,54 @@
+---
+title: "Shifts in Water Supply and Demand Shape Land Cover Change Across Chile"
+author: "Francisco Zambrano, Anton Vrieling, Francisco Meza, Iongel Duran-Llacer, Francisco Fernández, Alejandro Venegas-González, Nicolas Raab, Dylan Craven"
+format: revealjs
+---
+
+# Introduction
+
+- **Background:** Increasing frequency and severity of droughts globally
+- **Objective:** Assess temporal changes in water supply and demand and their impacts on vegetation productivity and land cover in Chile
+
+# Study Area
+
+- **Description:** Continental Chile divided into seven ecoregions
+- **Ecoregions:** Atacama desert, Central Andean dry puna, Southern Andean steppe, Chilean Matorral, Valdivian temperate forests, Magellanic subpolar forests, Patagonian steppe
+
+# Data and Methods
+
+- **Data Sources:** MODIS, ERA5-Land, MCD12Q1, road density, frequency of fires, nighttime light emissions
+- **Drought Indices:** SPI, SPEI, SSI, EDDI, SETI
+- **Analysis:** Temporal trends, vegetation productivity, land cover change
+
+# Results - Temporal Trends
+
+- **Key Findings:** Drought indices intensify over longer time scales
+- **Ecoregions:** Significant trends in water supply and demand
+
+# Results - Vegetation Productivity
+
+- **Key Findings:** Decline in vegetation productivity in Chilean Matorral and Patagonian steppe
+- **Other Regions:** Varying trends in vegetation productivity
+
+# Results - Land Cover Change
+
+- **Key Findings:** Significant changes in forest, savanna, and shrubland areas
+- **Impact:** Drought intensity explains changes in land cover
+
+# Discussion
+
+- **Persistent Drying Trends:** Impacts on ecosystems
+- **Importance of Multi-Dimensional Analysis:** Effects on vegetation productivity and land cover change
+
+# Conclusion
+
+- **Summary:** Long-term variations in water supply and demand impact vegetation productivity and land cover
+- **Implications:** Need for context-specific adaptation strategies in agriculture, biodiversity conservation, and natural resource management
+
+# Acknowledgments
+
+- **Funding:** National Research and Development Agency of Chile (ANID)
+
+# References
+
+- **Key References:** Highlight important studies and reports cited in the manuscript
