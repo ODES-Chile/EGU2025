@@ -154,13 +154,11 @@ title-slide-attributes:
 
 In Chile:
 
-- Trends in water supply decline in most of the country and trends in AED increase are observed.
+- Trends in `water supply decline` in most of the country and trends in `AED increase` are observed.
 
-- In water-limited regions, the trends on SETI decrease.
+- In `water-limited` regions, the trends on `SETI decrease`.
 
-- Drought reshapes ecosystems deeply and persistently.
-
-- Even drought-tolerant vegetation types are vulnerable.
+- `Drought` reshapes `ecosystems` deeply and persistently.
 
 - Context-specific adaptation strategies are urgent for conservation, agriculture, and land management.
 
