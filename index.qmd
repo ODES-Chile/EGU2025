@@ -96,10 +96,10 @@ title-slide-attributes:
 
 ## Key Results: Water supply and demand trends {.smaller background-image="img/egu25_logo.svg" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
 
-- Chilean Matorral and Patagonian Steppe drying rapidly.
-- Water supply (SPI, SPEI, SSI) decreasing.
 - Atmospheric demand (EDDI) increasing.
+- Water supply (SPI, SPEI, SSI) decreasing.
 - Vegetation water demand (SETI) dropping in water-limited regions.
+- Chilean Matorral and Patagonian Steppe drying rapidly.
 
 ![](figs/trend_macrozone_drought_indices.png){fig-align='center'}
 
