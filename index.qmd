@@ -171,6 +171,8 @@ In Chile:
 
 **Questions?**
 
+francisco.zambrano@umayor.cl
+
 # Referenes {background-image="img/egu25_logo.svg" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
 
 ::: {#refs}
